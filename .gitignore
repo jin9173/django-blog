@@ -1,8 +1,11 @@
+.idea
+
 # Created by https://www.gitignore.io/api/linux,macos,python,windows,pycharm+all,jupyternotebooks
 # Edit at https://www.gitignore.io/?templates=linux,macos,python,windows,pycharm+all,jupyternotebooks
 
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
+
 # website: http://jupyter.org/
 
 .ipynb_checkpoints
